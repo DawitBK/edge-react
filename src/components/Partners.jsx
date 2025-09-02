@@ -4,7 +4,7 @@ const Partners = () => {
   const partners = [
     "https://logo.clearbit.com/huawei.com",
     "https://logo.clearbit.com/paloaltonetworks.com",
-    "https://via.placeholder.com/150?text=Eaton",
+    "/.eaton.jpg",
     "https://logo.clearbit.com/vertiv.com",
     "https://logo.clearbit.com/canovate.com",
     "https://logo.clearbit.com/cisco.com",
