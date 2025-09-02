@@ -2,11 +2,11 @@ import React from "react";
 
 const Clients = () => {
   const clients = [
-    "https://via.placeholder.com/150?text=Bahirdar",
-    "https://via.placeholder.com/150?text=Bonga",
-    "https://via.placeholder.com/150?text=Haromaya",
-    "https://via.placeholder.com/150?text=Mizan",
-    "https://via.placeholder.com/150?text=Yekatit",
+    "./bahirdar.jpg",
+    "./haromaya.webp",
+    "./mizan.png",
+    "./bonga2.jpeg",
+    "./yekatit.jpg",
   ];
 
   return (
