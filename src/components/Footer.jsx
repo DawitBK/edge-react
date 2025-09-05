@@ -56,8 +56,7 @@ const Footer = () => {
         <div>
           <h3 className="text-2xl font-bold mb-4">Contact Info</h3>
           <p className="text-lg mb-2">
-            📍 Addis Ababa, Bole Next to Ambassador Hotel, Lubaba building 3rd
-            Floor
+            📍 Addis Ababa, Bole Emperial BMA Plaza, 9th Floor.
           </p>
           <p className="text-sm mb-2">📞 +251 92 255 5055</p>
           <p className="text-sm mb-2">📞 +251 91 153 8809</p>
