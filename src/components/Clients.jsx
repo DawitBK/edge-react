@@ -7,6 +7,12 @@ const Clients = () => {
     "./mizan.png",
     "./bonga2.jpeg",
     "./yekatit.jpg",
+    "https://www.zemenbank.com/images/assets/logo2x.png",
+    "./esx.png",
+    "https://upload.wikimedia.org/wikipedia/en/7/74/Ministry_of_Urban_Development_and_Construction_%28Ethiopia%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/en/e/ef/Arba_Minch_University.png",
+    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBRjvx-6kMckIIeye3IwgLtXpdYKau3yNePw&s",
+    "https://siinqeebank.com/wp-content/uploads/2024/03/Green-Logo.png",
   ];
 
   return (
@@ -21,7 +27,7 @@ const Clients = () => {
               key={idx}
               src={c}
               alt="Client"
-              className="mx-auto rounded-xl shadow-lg h-40 object-cover"
+              className="mx-auto rounded-xl shadow-lg h-40 object-contain"
             />
           ))}
         </div>

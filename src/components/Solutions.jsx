@@ -3,13 +3,28 @@ import React from "react";
 const Solutions = () => {
   const solutions = [
     {
-      title: "Datacenter Facility",
+      title: "Enterprise Network Service",
+      img: "https://i.pinimg.com/736x/54/89/4c/54894c875bda7f658a4325d10062fa33.jpg",
+      points: [
+        "Wired Network Infrastructure",
+        "Wireless Network infrastructure",
+        "Collaboration and Voice solutions",
+        "Contact center",
+        "Network Security",
+        "Network Management",
+      ],
+    },
+    {
+      title: "Modern Datacenter and Cloud Solutions",
       img: "https://www.facilitiesnet.com/resources/editorial/2023/shutterstock_2212675529.jpg",
       points: [
-        "High availability & reliability",
-        "Secure infrastructure",
-        "Scalable storage solutions",
-        "24/7 monitoring and support",
+        "Datacenter infrastructure",
+        "Server/ Compute",
+        "Datacenter Network",
+        "Virtualization",
+        "Storage",
+        "Cloud Solutions (Public, Private, Hybrid)",
+        "Backup and Disaster Recovery",
       ],
     },
     {
@@ -33,13 +48,23 @@ const Solutions = () => {
       ],
     },
     {
-      title: "IT Services / Support",
-      img: "https://images.unsplash.com/photo-1521791136064-7986c2920216?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80",
+      title: "Software Soltions",
+      img: "https://edgecomm-tech.com/wp-content/uploads/2020/10/Cloud-Computing.png",
       points: [
-        "Desktop support",
-        "System troubleshooting",
-        "Software management",
-        "End-user training",
+        "ERP Solutions",
+        "Digital office solutions",
+        "E-payment and core banking",
+        "Custom software development",
+      ],
+    },
+    {
+      title: "IT Facility solutions",
+      img: "https://i.pinimg.com/736x/45/ef/f2/45eff20d8a02bf9834e58f3d523e48c2.jpg",
+      points: [
+        "Datacenter facility and power solution",
+        "Cooling and DCIM solutions",
+        "Structural cabling and Telecom Tower solutions",
+        "Physical security and SCS solutions",
       ],
     },
   ];
